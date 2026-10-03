@@ -1,0 +1,10 @@
+name: bead-counter
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9
+  - numpy
+  - scipy
+  - scikit-image
+  - opencv
+  - openpyxl
